@@ -1,4 +1,4 @@
-Hi! I'm Henrik Nyh, a Swedish web developer based in West Yorkshire.
+Hi! I'm Henrik Nyh, a Swedish web developer based in West Yorkshire, UK.
 
 🦆 Twitter: [**@henrik**](https://twitter.com/henrik)
 
